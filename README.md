@@ -1,2 +1,3 @@
-# shiny
-Tutorial Tadında Shiny Web Uygulamaları 
+# Shiny Web Uygulamaları
+
+## Tutorial Tadında Shiny Web Uygulamaları 
